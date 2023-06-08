@@ -1,0 +1,12 @@
+Node JS 
+
+1 - Installer le RunTime NodeJS et le Node Package Manager
+2 - Installer Express dans mon backend
+3 - Executer l'application Express sur le serveur Node
+4 - Gérer les erreurs de Cors
+5 - Mettre en place le bodyparser "app.use(express.json());"
+6 - Configuration Base de données
+7 - Configuration des routes
+8 - Configuration des controllers
+9 - Génerer un Token si il le faut
+
